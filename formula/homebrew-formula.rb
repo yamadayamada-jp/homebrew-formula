@@ -1,4 +1,4 @@
-class HomebrewFormula < Formula
+class HomebrewHelloWorld < Formula
   desc ""
   homepage ""
   url "https://github.com/yamadayamada-jp/homebrew-hello-world/releases/download/0.0.2/helloworld"
